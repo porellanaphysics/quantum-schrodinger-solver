@@ -1,0 +1,28 @@
+# Large simulation output datasets (> 50MB)
+onda_resultado.dat
+fort.*
+datos_t1.csv
+*.dat.bak
+
+# Binaries and object files
+*.o
+*.mod
+*.exe
+armonico
+mult
+schr
+multi/multi
+multOpen
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.env/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
