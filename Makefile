@@ -25,3 +25,4 @@ plot:
 
 clean:
 	rm -f schr armonico mult schr2 multi/multi multi/multOpen *.o *.mod *.exe fort.* onda_resultado.dat
+
